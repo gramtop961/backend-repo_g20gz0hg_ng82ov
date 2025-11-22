@@ -13,3 +13,13 @@ INFO:     172.20.0.1:58212 - "GET /api/products HTTP/1.1" 200 OK
 INFO:     172.20.0.1:59568 - "GET /api/products HTTP/1.1" 200 OK
 INFO:     172.20.0.1:59582 - "GET /api/products HTTP/1.1" 200 OK
 INFO:     172.20.0.1:59582 - "GET /api/products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58220 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58220 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46380 - "GET /api/products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46364 - "GET /api/products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46380 - "GET /api/products HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46350 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46350 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33902 - "GET /api/products?category=Bands HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42252 - "GET /api/products?category=Pendants HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42264 - "GET /api/products HTTP/1.1" 200 OK
